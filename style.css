@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   
@@ -21,7 +21,7 @@
   margin: 20px;
 }
 .Mauer {
-  background-image: url("Pictures/Berliner-Mauer.jpg");
+  background-image: url("Berliner-Mauer.jpg");
   height: 500px;
   background-size: cover;
   background-position: center;
@@ -61,4 +61,4 @@ li {
 p, h3, #geo{
   margin: 30px 0px;
 }
-
+ */
