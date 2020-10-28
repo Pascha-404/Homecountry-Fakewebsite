@@ -1,64 +1,40 @@
-/* * {
-  margin: 0;
-  padding: 0;
-  
-}
-
-#head h1{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-weight: bold;
-  font-size: 300%;
-  text-align: center;
-}
-
-#geo h2{
-  text-align: center;
-}
-
-#geo {
-  border: 3px solid white;
-  padding: 50px;
-  margin: 20px;
-}
-.Mauer {
-  background-image: url("Berliner-Mauer.jpg");
-  height: 500px;
-  background-size: cover;
-  background-position: center;
-  color: white;
-  text-align: right;
-  border: 3px solid white;
-  border-radius: 3px;
-  
-
-}
-
 body {
-  color: #ffc039;
-  background-color: #121258;
+  background-color: #003049;
+  color: #2a9d8f;
 }
 
-#nav {
+
+h1 {
   text-align: center;
-  padding: 0;
-  font-size: 120%;
-  position: fixed;
-  left: 45%;
-  top: 10%;
-  z-index: 10;
-  color: black;
-
-}
-
-
-
-li {
-  margin: 10px 0px;
-  padding: 0;
+  text-decoration: underline;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #e76f51;
   
 }
 
-p, h3, #geo{
-  margin: 30px 0px;
+h2, h3 {
+  color: #f4a261;
 }
- */
+
+nav, .links {
+      color: #e9c46a;
+      text-decoration: #e9c46a underline;
+}
+
+figcaption {
+  font-size: 13px;
+ 
+}
+
+button:hover {
+  background-color: red;
+  color: white
+}
+
+p, .list {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.nav {
+  background-color: lightslategrey;
+}
